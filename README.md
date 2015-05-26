@@ -24,3 +24,7 @@ Running instance
 This chatroom application is hosted at <a href="http://wschat.coding.io/en/">http://wschat.coding.io/en/</a>.
 
 For features and usage of the chatroom, see its <a href="http://wschat.coding.io/en/help.html">Help</a>.
+
+License
+------
+MIT license.
