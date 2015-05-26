@@ -4,7 +4,7 @@
 #
 # The MIT License (MIT)
 #
-# Copyright (c) Tavendo GmbH
+# Copyright (c) X. Chen
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -27,7 +27,8 @@
 ###############################################################################
 
 #
-# This is modified from the code of T. GmbH,
+# This file is modified from the code of T. GmbH at:
+# https://github.com/tavendo/AutobahnPython/blob/master/examples/twisted/websocket/broadcast/client.py
 # by adding Echo class, which accepts local stdio input and send to server.
 # Modified BroadcastClientProtocol class to register Echo class.
 # X. Chen, 3/15/2015 
