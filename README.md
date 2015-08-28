@@ -21,7 +21,7 @@ See <a href="https://github.com/chenx/wschat/blob/master/README">README</a> for 
 Running instance
 ------
 
-This chatroom application is hosted at <a href="http://wschat.coding.io/en/">http://wschat.coding.io/en/</a>.
+This chatroom application is hosted at <a href="http://wschat.coding.io/en/">http://wschat.coding.io/en/</a>, or <a href="http://homecox.com/games/gtchat/en/">http://homecox.com/games/gtchat/en/</a>.
 
 For features and usage of the chatroom, see its <a href="http://wschat.coding.io/en/help.html">Help</a>.
 
