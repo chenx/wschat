@@ -431,6 +431,18 @@ To start client.html in a browser:
 open client.html in a browser.
 
 
+== Misc ==
+
+For audio/video sharing it uses HTML5, the fall back is flash player when browser has limited HTML5 support.
+
+For flahs player, you may need to choose some preference settings for the first use. 
+Later if you want to change it back, it may be hard to find the setting panel. 
+In that case, you can always use this one:
+
+Adobe Flash Player Settings Manager:  
+http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager09.html
+
+
 == TO DO ==
 
 - testing framework:
