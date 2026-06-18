@@ -23,7 +23,7 @@ Running instance
 
 This chatroom application is hosted at <a href="https://mountainviews.space/html/gtchat/en/">https://mountainviews.space/html/gtchat/en/</a>.
 
-<strike>This chatroom application is hosted at <a href="http://homecox.com/games/gtchat/en/">http://homecox.com/games/gtchat/en/</a>.</striken>
+<!--This chatroom application is hosted at <a href="http://homecox.com/games/gtchat/en/">http://homecox.com/games/gtchat/en/</a>.-->
 
 For features and usage of the chatroom, see its <a href="http://homecox.com/games/gtchat/en/help.html">Help</a>.
 
