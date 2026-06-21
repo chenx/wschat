@@ -25,7 +25,7 @@ This chatroom application is hosted at <a href="https://chat.mtvs.space">chat.mt
 
 <!--This chatroom application is hosted at <a href="http://homecox.com/games/gtchat/en/">http://homecox.com/games/gtchat/en/</a>.-->
 
-For features and usage of the chatroom, see its <a href="http://chat.mtvs.space/help.html">Help</a>.
+For features and usage of the chatroom, see its <a href="http://chat.mtvs.space/en/help.html">Help</a>.
 
 License
 ------
